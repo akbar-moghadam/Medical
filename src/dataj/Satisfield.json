@@ -1,0 +1,23 @@
+[
+    {
+        "image":"../images/people.png",
+        "num":"3254",
+        "title":"Satisfied Customer"
+    },
+    {
+        "image":"../images/home.png",
+        "num":"350",
+        "title":"Hospital"
+    },
+    {
+        "image":"../images/adduser.png",
+        "num":"400",
+        "title":"Qualified Doctor"
+    },
+    {
+        "image":"../images/unit.png",
+        "num":"25",
+        "title":"Departments"
+    }
+]
+

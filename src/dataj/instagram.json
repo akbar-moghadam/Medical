@@ -1,0 +1,22 @@
+[
+    {
+        "to":"/",
+        "alt":"karolina",
+        "src":"../images/karolina.jpg"
+    },
+    {
+        "to":"/",
+        "alt":"pelab",
+        "src":"../images/pelab.jpg"
+    },
+    {
+        "to":"/",
+        "alt":"plab",
+        "src":"../images/plab.jpg"
+    },
+    {
+        "to":"/",
+        "alt":"hospital",
+        "src":"../images/fisk.jpg"
+    }
+]
